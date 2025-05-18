@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 st.set_page_config(
-    page_title="Currency Converter 💸",  
+    page_title="Currency Converter App",  
     page_icon="💱",                      
     layout="centered",                  
 )
