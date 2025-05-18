@@ -4,11 +4,11 @@ A simple and beautiful web-based Currency Converter built using **Streamlit** an
 
 ## 🚀 Live Demo
 
-> 🔗 [Coming Soon – Deploying on Streamlit Cloud...]
+> 🔗 [Deploying on Streamlit Cloud...]
 
 ## 📸 Preview
 
-![Currency Converter UI](https://i.imgur.com/dZqVt9O.png)  
+![Currency Converter UI](image.png)  
 <sup>*This is a placeholder. You can add a screenshot of your app once deployed.*</sup>
 
 ## ✨ Features
@@ -29,7 +29,7 @@ A simple and beautiful web-based Currency Converter built using **Streamlit** an
 Clone the repo and run it locally:
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
+git clone https://github.com/your-username/currencyconverter.git
+cd currencyconverter
 pip install -r requirements.txt
 streamlit run App.py
