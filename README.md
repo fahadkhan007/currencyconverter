@@ -33,3 +33,5 @@ git clone https://github.com/your-username/currencyconverter.git
 cd currencyconverter
 pip install -r requirements.txt
 streamlit run App.py
+
+
